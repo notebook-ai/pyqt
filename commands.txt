@@ -1,0 +1,4 @@
+pip install PyQt6
+pip install pyqt6-tools
+pip install pyinstaller
+pyinstaller --onefile YOUR_SCRIPT.py
