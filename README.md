@@ -1,2 +1,2 @@
-# pyqt
-pyqt mini project
+# learning pyqt6
+pyqt mini project for learning
